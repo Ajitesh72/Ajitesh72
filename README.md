@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ajitesh72
-- 👀 I’m intrested in Software Development,DSA, and any and everything related to computer
+- 👀 I’m intrested in Software Development,DSA, and Machine Learning
 - 🌱 I’m currently learning App Development
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me linkedIn-https://www.linkedin.com/in/ajitesh-dubey-4b5852220/
