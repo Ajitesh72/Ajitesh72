@@ -5,9 +5,9 @@
   <tr>
     <td>
       <h1>👋 Hi, I’m @Ajitesh72</h1>
-      <h2>👀 I’m interested in Software Development,Machine Learning and DSA</h2>
-      <h3>🌱 I’m currently grinding on Leetcode</h3>
-      <h4>💞️ I’m looking to collaborate on Full Stack Projects</h4>
+      <h5>👀 I’m interested in Software Development,Machine Learning and DSA</h2>
+      <h5>🌱 I’m currently grinding on Leetcode</h3>
+      <h5>💞️ I’m looking to collaborate on Full Stack Projects</h4>
       <h5>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ajitesh-dubey-4b5852220/)</h5>
       <h6>My Portfolio Website: [Portfolio](https://portfolio-br4i.vercel.app/#/)</h6>
     </td>
@@ -16,12 +16,9 @@
     </td>
   </tr>
 </table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">My Awesome Project</h1>
-
-## Introduction
-
-Welcome to my awesome project! This project showcases my skills in various programming languages, libraries, frameworks, and tools.
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ### Programming Languages
 
@@ -69,6 +66,11 @@ Welcome to my awesome project! This project showcases my skills in various progr
 
 
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ajitesh72&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 <!---
 Ajitesh72/Ajitesh72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
