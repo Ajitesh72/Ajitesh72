@@ -1,17 +1,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
 <table>
   <tr>
-    <td>
+<!--     <td> -->
       <h1>👋 Hi, I’m @Ajitesh72</h1>
       <h5>👀 I’m interested in Software Development,Machine Learning and DSA</h2>
       <h5>🌱 I’m currently grinding on Leetcode</h3>
       <h5>💞️ I’m looking to collaborate on Full Stack Projects</h4>
       <h5>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ajitesh-dubey-4b5852220/)</h5>
       <h6>My Portfolio Website: [Portfolio](https://portfolio-br4i.vercel.app/#/)</h6>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajitesh72&theme=tokyonight" alt="Top Languages" />
-    </td>
+<!--     </td> -->
+    
   </tr>
 </table>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -20,46 +18,30 @@
 
 ### Programming Languages
 
-| <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="40px" alt="JavaScript"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" width="40px" alt="C++"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="40px" alt="C"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40px" alt="Python"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="40px" alt="TypeScript"> |
-| :---: | :---: | :---: | :---: | :---: |
-| JavaScript | C++ | C | Python | TypeScript |
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
 ### Frontend Libraries
 
-| <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="40px" alt="React"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" width="40px" alt="Redux"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/react-router/react-router.png" width="40px" alt="React Router"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="40px" alt="Next.js"> | <img src="https://user-images.githubusercontent.com/98990/89711240-4172a200-d989-11ea-8d51-4aaf922fa407.png" width="40px" alt="Tailwind CSS"> |
-| :---: | :---: | :---: | :---: | :---: |
-| React | Redux | React Router | Next.js | Tailwind CSS |
-
-| <img src="https://repository-images.githubusercontent.com/157846876/70574400-9e6a-11e9-8708-22d4bf4c3322" width="40px" alt="Framer Motion"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" width="40px" alt="Bootstrap"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" width="40px" alt="Vue.js"> |
-| :---: | :---: | :---: |
-| Framer Motion | Bootstrap | Vue.js |
-
+ ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
 ### Backend Libraries
 
-| <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="40px" alt="Node.js"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" width="40px" alt="Express.js"> | <img src="https://camo.githubusercontent.com/68390254ad6054b8e98b68fbcae09a3b78751427686f3e003a33c2bbc913b14c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d666c61736b266c6f676f436f6c6f723d7768697465" width="40px" alt="Flask"> | <img src="https://camo.githubusercontent.com/5fff6029f4154d67d92000c1809bdf4d2df21aba75e7f93293680155e561baa4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a736f6e253230776562253230746f6b656e732d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a736f6e2d7765622d746f6b656e73266c6f676f436f6c6f723d70696e6b" width="40px" alt="JWT"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png" width="40px" alt="npm"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/yarn/yarn.png" width="40px" alt="Yarn"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png" width="40px" alt="jQuery"> | <img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" width="40px" alt="Selenium"> |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Node.js | Express.js | Flask | JWT | npm | Yarn | jQuery | Selenium |
-
-| <img src="https://sandny.com/wp-content/uploads/2021/06/social.png" width="40px" alt="Stripe.js"> | <img src="https://img.stackshare.io/service/2862/qr2-jCLr.jpg" width="40px" alt="Nodemailer"> |
-| :---: | :---: |
-| Stripe.js | Nodemailer |
+ ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)   ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
 ### Databases
 
-| <img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" width="40px" alt="Firebase"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" width="40px" alt="MongoDB"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" width="40px" alt="MySQL"> | <img src="https://amazon-dynamodb-labs.com/images/Amazon-DynamoDB.png" width="40px" alt="DynamoDB"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" width="40px" alt="Redis"> |
-| :---: | :---: | :---: | :---: | :---: |
-| Firebase | MongoDB | MySQL | DynamoDB | Redis |
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
+### Data Science
+
+ ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+ 
 ### Tools
 
-| <img src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" width="40px" alt="Ubuntu"> | <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="40px" alt="Figma"> | <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" width="40px" alt="VS Code"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="40px" alt="Git"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" width="40px" alt="Jupyter Notebook"> |
-| :---: | :---: | :---: | :---: | :---: |
-| Ubuntu | Figma | VS Code | Git | Jupyter Notebook |
+ ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-| <img src="https://img.icons8.com/color/48/000000/docker.png" width="40px" alt="Docker"> | <img src="https://developer.android.com/studio/images/studio-icon-preview.svg" width="40px" alt="Android Studio"> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMS-B8Mfwk6TPmz1rLjID38ecQ5Vx7Rm18W6jS1-NKDVNDSWy86-TJqDPSqiRlbh9-_tc&usqp=CAU" width="40px" alt="GitHub"> | <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="40px" alt="Netlify"> | <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fvercel&psig=AOvVaw0_IXZajSTuNVVbAJt9Jd-Y&ust=1689887995600000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCztuvZm4ADFQAAAAAdAAAAABA-" width="40px" alt="Vercel"> |
-| :---: | :---: | :---: | :---: | :---: |
-| Docker | Android Studio | GitHub | Netlify | Vercel |
-
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajitesh-dubey-4b5852220) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)]mailto:dubeyajitesh07@gmail.com
 
 
 
