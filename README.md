@@ -8,7 +8,7 @@
       <h5>💞️ I’m looking to collaborate on Full Stack Projects</h4>
       <h5>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ajitesh-dubey-4b5852220/)</h5>
       <h6>My Portfolio Website: [Portfolio](https://portfolio-br4i.vercel.app/#/)</h6>
-      <h6>My Resume: [Ajitesh_Dubey_Resume_August.pdf](https://github.com/Ajitesh72/Ajitesh72/files/12227201/Ajitesh_Dubey_Resume_August.pdf)
+      <h6>My Resume: (https://github.com/Ajitesh72/Ajitesh72/files/12227201/Ajitesh_Dubey_Resume_August.pdf)
 </h6>
 <!--     </td> -->
     
