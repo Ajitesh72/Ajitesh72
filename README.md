@@ -4,11 +4,11 @@
 <!--     <td> -->
       <h1>👋 Hi, I’m @Ajitesh72</h1>
       <h5>👀 I’m interested in Software Development,Machine Learning and DSA</h2>
-      <h5>🌱 I’m currently grinding on Leetcode</h3>
+      <h5>🌱 I’m currently learning C#</h3>
       <h5>💞️ I’m looking to collaborate on Full Stack Projects</h4>
       <h5>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ajitesh-dubey-4b5852220/)</h5>
 <!--       <h6>My Portfolio Website: [Portfolio](https://portfoliowebsite-rho-beryl.vercel.app/)</h6> -->
-      <h6>My Resume: (https://drive.google.com/file/d/1H9dHRSgxwfSSR9sXo5T7jrw3RSXz36Qu/view?usp=sharing)
+<!--       <h6>My Resume: (https://drive.google.com/file/d/1H9dHRSgxwfSSR9sXo5T7jrw3RSXz36Qu/view?usp=sharing) -->
       <h6>Checkout my Latest Blog: (https://medium.com/@dubeyajitesh07/everything-about-firebase-admin-sdk-with-react-45af304367de)
 </h6>
 <!--     </td> -->
