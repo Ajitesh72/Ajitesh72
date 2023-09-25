@@ -4,7 +4,7 @@
 <!--     <td> -->
       <h1>👋 Hi, I’m @Ajitesh72</h1>
       <h5>👀 I’m interested in Software Development,Machine Learning and DSA</h2>
-      <h5>🌱 I’m currently learning C# & .NET</h3>
+<!--       <h5>🌱 I’m currently learning C# & .NET</h3> -->
       <h5>💞️ I’m looking to collaborate on Full Stack Projects</h4>
       <h5>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ajitesh-dubey-4b5852220/)</h5>
       <h6>My Portfolio Website: [Portfolio](https://ajiteshdubey.vercel.app/)</h6>
