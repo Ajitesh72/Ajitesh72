@@ -2,7 +2,7 @@
 <table>
       <h1>👋 Hi, I’m @Ajitesh72</h1>
       <h5>👀 I’m interested in Software Development and DSA</h2>
-      <h5>🌱 I’m currently learning React Native</h3>
+      <h5>🌱 I’m currently learning Data Engineering</h3>
       <h5>💞️ I’m looking to collaborate on Full Stack Projects</h4>
       <h6>Checkout my Latest Blog: (https://medium.com/@dubeyajitesh07/everything-about-firebase-admin-sdk-with-react-45af304367de)
 </h6>
