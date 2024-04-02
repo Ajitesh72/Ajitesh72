@@ -1,10 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
 <table>
       <h1>👋 Hi, I’m @Ajitesh72</h1>
+      <h5>🔭 I’m currently working at IIT-Bombay as a Research Intern</h4>
       <h5>👀 I’m interested in Software Development and DSA</h2>
       <h5>🌱 I’m currently learning Data Engineering</h3>
       <h5>💞️ I’m looking to collaborate on Full Stack Projects</h4>
-      <h5>🔭 I’m currently working at IIT-Bombay as a Research Intern</h4>
       <h6>Checkout my Latest Blog: (https://medium.com/@dubeyajitesh07/everything-about-firebase-admin-sdk-with-react-45af304367de)
 </h6>
     
