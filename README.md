@@ -1,4 +1,4 @@
-![Blue And Red Futuristic Game YouTube Channel Art (1)](https://github.com/Ajitesh72/Ajitesh72/assets/95878363/4528d292-3823-43a8-8d71-9c6250fdd7ed)
+![image](https://github.com/Ajitesh72/Ajitesh72/assets/95878363/3ff83d5a-46fd-4350-80d0-c7b826dfa3ea)
 
 
 
