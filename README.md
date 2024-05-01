@@ -1,3 +1,8 @@
+![Blue And Red Futuristic Game YouTube Channel Art (1)](https://github.com/Ajitesh72/Ajitesh72/assets/95878363/4528d292-3823-43a8-8d71-9c6250fdd7ed)
+
+
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
 <table>
       <h1>👋 Hi, I’m @Ajitesh72</h1>
