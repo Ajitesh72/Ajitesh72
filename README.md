@@ -19,14 +19,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <p>A third-year Computer Science & Engineering student at Mumbai University, specializing in Data Science .🎯 Currently a Research Intern at IIT Bombay, focusing on innovative GAN-Based Missing Data Imputation techniques.🔭 Proficient in TypeScript, Python, React.js, AWS, GCP, with experience in Machine Learning and Data Science. 👀 Experienced in software development across law-tech, med-tech, etc. Active participant in technical societies, won several Hackathons, and contributed to open-source projects. 🤝 Let's connect!</p>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img height="50" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=410&lines=Software+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" /></a>
  <div > 
-       <h5>🔭 I’m currently working at IIT-Bombay as a Research Intern</h4> 
-       <h5>👀 I’m interested in Software Development and DSA</h2> 
-       <h5>🌱 I’m currently learning Data Engineering</h3> 
-       <h5>🤝 I’m looking to collaborate on Full Stack/Backend Development Projects</h4> 
-<h5>📝 Have a look at my <a href="https://docs.google.com/document/d/10MtBnNxujCmQemLP6C1hGVdGqlYrGl6erleukXe6L18/edit?usp=sharing" target="_blank">Resume</a> for more details about me. I'm open to feedback and suggestions!</h5>
-       <h6>Checkout my Latest Blog: (https://medium.com/@dubeyajitesh07/everything-about-firebase-admin-sdk-with-react-45af304367de) </h6>     
+       <p>🔭 I’m currently working at IIT-Bombay as a Research Intern</p> 
+       <p>👀 I’m interested in Software Development and DSA</p> 
+       <p>🌱 I’m currently learning Data Engineering</p> 
+       <p>🤝 I’m looking to collaborate on Full Stack/Backend Development Projects</p> 
+<p>📝 Have a look at my <a href="https://docs.google.com/document/d/10MtBnNxujCmQemLP6C1hGVdGqlYrGl6erleukXe6L18/edit?usp=sharing" target="_blank">Resume</a> for more details about me. I'm open to feedback and suggestions!</p>
+       <p>Checkout my Latest Blog: (https://medium.com/@dubeyajitesh07/everything-about-firebase-admin-sdk-with-react-45af304367de) </p>     
  </div>
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
